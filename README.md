@@ -6,6 +6,7 @@ Hola, mi nombre es Ciro Ball, les comento algunas cosas.
  - Tengo 19 años
  - Primera (y espero única) vez cursando PdP
  - Curso: k2004
+ - Legajo: 2337022
  - mi foto de discord:
 
 <p align="center">
